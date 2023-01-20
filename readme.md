@@ -6,7 +6,7 @@
  • <a href="#how-to-use">How To Use</a> 
 </p>
 
-![screenshot](https://github.com/shaswat97-crypto/codeforces-bot)
+![screenshot](https://github.com/shaswat97-crypto/media/blob/master/botgif.gif)
 
 
 ## Key Features
