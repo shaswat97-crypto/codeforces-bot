@@ -42,7 +42,7 @@ This software uses the following open source packages:
 
 - [Node.js](https://nodejs.org/)
 - [puppeteer](https://www.npmjs.com/package/puppeteer)
-- [mouse-helper]
+- mouse-helper
 
 
 
